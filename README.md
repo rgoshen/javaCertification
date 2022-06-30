@@ -1,5 +1,7 @@
 # Java Certification Course
 
+[![Java logo](notes/images/Java_logo_PNG1.png)](https://www.java.com/en/)
+
 ### A [Simplilearn](https://www.simplilearn.com/) course
 
 [Course Descripttion](https://www.simplilearn.com/learn-java-basics-skillup)
